@@ -169,10 +169,10 @@ class Solution {
 
 ## 结语
 
-如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[awesome-java-leetcode][ajl]
+如果你同我一样热爱数据结构、算法、LeetCode，可以关注我 GitHub 上的 LeetCode 题解：[LeetCode-java][ajl]
 
 
 
-[044]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/044/README.md
+[044]: https://github.com/lovelife-li/LeetCode-java/blob/master/note/044/README.md
 [title]: https://leetcode.com/problems/regular-expression-matching
-[ajl]: https://github.com/Blankj/awesome-java-leetcode
+[ajl]: https://github.com/lovelife-li/LeetCode-java
