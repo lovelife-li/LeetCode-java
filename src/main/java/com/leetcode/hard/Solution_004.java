@@ -1,4 +1,4 @@
-package com.leetcode.part1;
+package com.leetcode.hard;
 
 
 import java.util.Arrays;
@@ -8,15 +8,19 @@ import java.util.HashMap;
  * @author ldb
  * @date 2020-03-27 9:46
  * @description <p>
- * 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
- * 你可以假设每种输入只会对应一个答案。但是，你不能重复利用这个数组中同样的元素。
+ * 寻找两个有序数组的中位数
  * <p>
- * Example:
- * Given nums = [2, 7, 11, 15], target = 9,
- * Because nums[0] + nums[1] = 2 + 7 = 9,
- * return [0, 1].
+ * Example1:
+ * nums1 = [1, 3]
+ * nums2 = [2]
+ * 则中位数是 2.0
+ *
+ * Example2:
+ * nums1 = [1, 2]
+ * nums2 = [3, 4]
+ * 则中位数是 (2 + 3)/2 = 2.5
  */
-public class Solution_001 {
+public class Solution_004 {
 
 
     /**
